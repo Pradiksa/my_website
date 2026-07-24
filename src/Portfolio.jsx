@@ -47,7 +47,7 @@ const DEFAULT_PROJECTS = [
     description: "A full-stack pharmacy e-commerce app with product listing, cart, order tracking, an admin panel, real-time delivery tracking, and push notifications via Firebase.",
     tech: ["React.js", "React Native", "Flask", "Firebase"],
     github: "",
-    demo: "",
+    demo: "https://pradiksa.abacusai.app",
   },
   {
     id: "p2",
