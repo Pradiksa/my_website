@@ -3,7 +3,8 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  // Relative base so the built site works from a GitHub Pages
-  // project URL like username.github.io/repo-name/
-  base: "./",
+  // Absolute base matching the GitHub repo name. This must match your
+  // repo exactly: https://<username>.github.io/<repo-name>/
+  // If you ever rename the repo, update this to match.
+  base: "/my_website/",
 });
