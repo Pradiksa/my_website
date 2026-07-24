@@ -86,8 +86,8 @@ const DEFAULT_PROJECTS = [
 const TIMELINE = [
   { date: "Oct 2022 – Dec 2023", title: "Python Developer, Krishtec", detail: "Built real-time industrial automation tooling with Flask, MQTT, Modbus and BACnet, plus a PyQt5 IoT monitoring dashboard." },
   { date: "Jan 2024 – Jun 2025", title: "Software Development Engineer, CODEWENTS", detail: "Delivered full-stack platforms with React.js, React Native and Flask, including an e-commerce app and a license-managed purchase system." },
-  { date: "2025", title: "Adopted AI-augmented workflows", detail: "Integrated ChatGPT, Claude and Stitch into daily architecture, debugging and prototyping." },
-  { date: "Sep 2025 – Present", title: "Software Development Engineer, ADMINITY", detail: "Building scalable web and desktop software, from React front-ends to Qt-based real-time visualization tools like the LiDAR tracking system." },
+  { date: "Sep 2025 – Dec 2025", title: "Software Development Engineer, ADMINITY", detail: "Built scalable web and desktop software, from React front-ends to Qt-based real-time visualization tools like the LiDAR tracking system." },
+  { date: "Jan 2026 – Present", title: "Software Engineer, Biorad", detail: "Continuing to grow as a software engineer, applying full-stack, backend, and real-time systems experience to new challenges." },
 ];
 
 /* ========================================================================= */
