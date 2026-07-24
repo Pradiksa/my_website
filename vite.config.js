@@ -6,5 +6,5 @@ export default defineConfig({
   // Absolute base matching the GitHub repo name. This must match your
   // repo exactly: https://<username>.github.io/<repo-name>/
   // If you ever rename the repo, update this to match.
-  base: "/my_website/",
+  base: "/",
 });
